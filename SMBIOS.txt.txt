@@ -1,0 +1,14 @@
+========================================= <verified />
+Type:         iMac19,1
+Serial:       C02ZJ0DQJV3Q
+Board Serial: C02941701GULNV9JA
+SmUUID:       A5A06446-9452-49D0-8023-2F23751D28C9
+
+
+
+
+========================================= <verified /> [using]
+Type: iMac20,1                                                                                                  
+Serial: C02CW4ZGPN5T                                                                                              
+Board Serial: C02025100QXPHCD8C                                                                                         
+SmUUID: D34F18E1-CD84-4378-B348-6FDAB47CB983 
